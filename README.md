@@ -1,2 +1,2 @@
-# acquaintanceBot
+# acquaintancePA_Bot
 Полубоярцева, Афонина
